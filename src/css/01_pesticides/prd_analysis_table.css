@@ -1,0 +1,21 @@
+.condition_table {
+  margin: auto;
+  width: 90%;
+  text-align: center;
+  margin-bottom: 30px;
+  border: 1px solid #f0f0f0;
+}
+.condition_table > tbody > tr > td,
+.condition_table > thead > tr > th {
+  position: relative;
+  padding: 8px;
+  overflow-wrap: break-word;
+}
+.condition_table > thead > tr > th {
+  border: 1px solid #f0f0f0;
+  font-weight: 500;
+  background: #fafafa;
+}
+.condition_table > tbody > tr > td {
+  border: 1px solid #f0f0f0;
+}

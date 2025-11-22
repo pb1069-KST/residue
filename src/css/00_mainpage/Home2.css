@@ -1,0 +1,49 @@
+.ant-input-group{
+    /* box-shadow: 1px 1px 10px 0px rgb(0 0 0 / 30%) */
+    font-size: 15px !important;
+}
+
+Row{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+Col{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+
+}
+
+.ant-card-body{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+.services:hover{
+    color: rgb(243, 243, 129) !important;    
+}
+.services_icon{
+    color: white;
+    font-size: 28px;
+}
+
+.services_icon:hover{
+    color: rgb(243, 243, 129) !important;    
+    font-size: 30px;
+}
+
+.data_text{
+    color: black;
+}
+
+.ant-select-selector{
+    background: transparent !important;
+    color : white !important;
+}
+
+.ant-card-head{
+    margin-bottom: 0px !important;
+    border-bottom: 1px solid rgb(32, 10, 155) !important;
+}
+
+
